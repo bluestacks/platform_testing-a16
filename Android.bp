@@ -43,8 +43,6 @@ test_package {
         "CellBroadcastReceiverTests",
         "ConnectivityUIDTest",
         "CtsCameraTestCases",
-        "CuttlefishRilTests",
-        "CuttlefishWifiTests",
         "Development",
         "DeviceHealthChecks",
         "DialerJankTests",
